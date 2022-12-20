@@ -165,6 +165,7 @@ body {
   letter-spacing: 0.03em;
 }
 .teammates-person {
+  background-color: var(--third-color);
   text-align: center;
   width: 270px;
   height: 368px;
