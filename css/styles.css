@@ -34,6 +34,7 @@ body {
 .header-list {
   display: inline;
   list-style-type: none;
+  padding-left: 30px;
 }
 .header-blue {
   font-style: normal;
@@ -43,6 +44,9 @@ body {
   letter-spacing: 0.02em;
   color: var(--primary-color);
   text-decoration: none;
+}
+.header-contacts {
+  padding-left: 350px;
 }
 .header-link {
   font-style: normal;
@@ -123,7 +127,6 @@ body {
   text-transform: uppercase;
 }
 .description-text {
-  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
